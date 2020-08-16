@@ -1,11 +1,12 @@
 # code-quiz
 
 ## Link
-Link to live site: [Code Quiz]()
+Link to live site: [Code Quiz](https://reddphoenix.github.io/code-quiz/)
 
 ## Screenshot of live website
 
-![Website Screenshot]()
+![Website Screenshot Desktop](https://github.com/ReddPhoenix/code-quiz/blob/master/assets/screenshot-of-live-website-desktop.png)
+![Website Screenshot Mobile](https://github.com/ReddPhoenix/code-quiz/blob/master/assets/screenshot-of-live-website-mobile.png)
 
 ## Project Overview
 
